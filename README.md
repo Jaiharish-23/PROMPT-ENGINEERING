@@ -8,6 +8,7 @@ Develop a comprehensive report for the following exercises:
 2.	Focusing on Generative AI architectures. (like transformers).
 3.	Generative AI applications.
 4.	Generative AI impact of scaling in LLMs.
+5.	Explain about LLM and how it is build. 
 
 # Algorithm: Step 1: Define Scope and Objectives
 1.1 Identify the goal of the report (e.g., educational, research, tech overview)
