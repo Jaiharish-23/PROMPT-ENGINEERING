@@ -1,4 +1,7 @@
-# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# EX-1 : Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+## NAME : JAI HARISH R
+## REG NO : 212224040124
+## AIM : To study the fundamentals of Generative AI and LLMs, including their architectures, working principles, applications, and the impact of scaling on their performance.
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
